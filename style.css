@@ -1,0 +1,91 @@
+*{
+    margin: 0.2rem;
+}
+
+
+.header{
+    font-size: 3rem ;
+}
+
+#par1{
+    font-size: 20px;
+}
+
+.general1{
+    font-size: 0.8rem;
+    margin-top: 1rem;
+}
+
+#name{
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+    margin-top: 10px;
+    
+    
+}
+.general2{
+    font-size: 0.8rem;
+}
+#surname{
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+    margin-top: 10px;
+}
+.general3{
+    font-size: 0.8rem;
+}
+#email{
+    display: flex;
+    flex-direction: column;
+    width: 10rem;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.general4{
+    margin-bottom: 10px;
+}
+#role1{
+    margin-top: 10px;
+}
+.general5{
+    
+    margin-bottom: 10px;
+}
+
+.general9{
+    font-size:0.8rem;
+}
+
+
+#feature1{
+    margin-top: 10px;
+}
+.general7{
+    
+    margin-bottom: 10px;
+   
+}
+
+.general10{
+    font-size: 0.8rem;
+}
+
+
+.general8{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    margin-bottom: 10px;
+}
+
+.general11{
+    
+    margin-left: 400px;
+    margin-bottom: 100px;
+    width: 65px;
+    height: 20px;
+    margin-top: -30px;
+    
+}
